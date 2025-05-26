@@ -3,9 +3,9 @@
 I'm a passionate developer who loves building cool stuff with modern web technologies.
 
 - 🔭 I’m currently working on an open source Vue project
-- 🌱 I’m learning **Rust** and **Go**
-- 💬 Ask me about **Vue**, **JavaScript**, or **APIs**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌱 I’m learning **PHP** and **Laravel**
+- 💬 Ask me about **Vue**,**HTML & CSS**
+- 📫 How to reach me: [LinkedIn]()
 - ⚡ Fun fact: I automate everything I can 🤖
 
 ---
@@ -29,9 +29,9 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 
 ### 🌱 Currently Learning
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
