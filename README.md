@@ -7,7 +7,11 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 - 💬 Ask me about **Vue**,**HTML & CSS**
 - 📫 How to reach me: [LinkedIn]()
 - ⚡ Fun fact: I automate everything I can 🤖
-
+---
+<h3 align="center">🐾 Meet My Coding Companion</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat" />
+</p>
 ---
 
 ### 🛠️ Languages and Tools
@@ -57,7 +61,4 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
-<h3 align="center">🐾 Meet My Coding Companion</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat" />
-</p>
+
