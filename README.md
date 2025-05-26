@@ -19,6 +19,21 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+### 🧩 Frameworks & Design Tools
+
+#### 🚀 Frameworks
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flowbite](https://img.shields.io/badge/-Flowbite-3B82F6?style=flat-square&logo=tailwind-css&logoColor=white)
+
+#### 🎨 Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00B388?style=flat-square&logo=coreldraw&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
 
