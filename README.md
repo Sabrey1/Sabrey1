@@ -57,10 +57,7 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
 ---
-
-### 🧠 My Dev Philosophy
-
-> "Write code as if the person maintaining it is a violent psychopath who knows where you live."
-
----
-
+<h3 align="center">🐾 Meet My Coding Companion</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat" />
+</p>
