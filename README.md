@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sabrey
 
-I'm a passionate developer who loves building cool stuff with modern web technologies.
+I'm a Junior software developer who loves building cool stuff with modern web technologies.
 
 - 🔭 I’m currently working on an open source Vue project
 - 🌱 I’m learning **PHP** and **Laravel**
