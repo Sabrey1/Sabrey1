@@ -10,8 +10,6 @@ I'm a Junior software developer who loves building cool stuff with modern web te
 ---
 <h3 align="center">🐾 Meet My Coding Companion</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="300" alt="Happy Dancing Cat" />
-
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat" />
 </p>
 ---
