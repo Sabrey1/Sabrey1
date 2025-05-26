@@ -39,13 +39,6 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ### 🌱 Currently Learning
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -61,4 +54,9 @@ I'm a passionate developer who loves building cool stuff with modern web technol
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)
 
 ---
+### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
