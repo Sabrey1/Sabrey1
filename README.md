@@ -36,6 +36,8 @@ I'm a Junior software developer who loves building cool stuff with modern web te
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-00B388?style=flat-square&logo=coreldraw&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Moqups](https://img.shields.io/badge/-Moqups-2E3A59?style=flat-square&logoColor=white)
 
 ---
 
